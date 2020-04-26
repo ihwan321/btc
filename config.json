@@ -1,0 +1,15 @@
+{
+    "auth": "gAAAAABepW-ng1SDOHZCZCeISmB8GagoPNdKvUrKPhd46hIZn_38MHQL1kr9fGO6HGEC_t_9mfnRpCo34a-KNeL83MyqrasW5xVm8nVdHzgqArHutm_Tr8Q=",
+    "device": {
+        "fd71c286-ce06-01f7-65a2-c4fd578d281b": {
+            "sdk": "24",
+            "manufacturer": "LG",
+            "device": "LG-P760",
+            "model": "LG-P760",
+            "product": "LG",
+            "hardware": "",
+            "board": "4ao7fe8c",
+            "brand": "LG"
+        }
+    }
+}
